@@ -22,7 +22,7 @@ except Exception:
 # ---------------------------
 # Version & base scaling
 # ---------------------------
-VERSION = "0.38"
+VERSION = "1.0"
 BASE_CANVAS = 640
 BASE_LABEL_PAD = 84
 BASE_FONT = 24
